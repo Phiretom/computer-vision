@@ -1,0 +1,13 @@
+names:
+- sign_0
+- sign_1
+- sign_2
+- sign_3
+- sign_4
+- sign_5
+- sign_6
+- sign_7
+nc: 8
+path: C:\Users\pirog\machinesCV\cv6\dataset
+train: images/train
+val: images/val
